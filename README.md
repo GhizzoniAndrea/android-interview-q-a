@@ -8,7 +8,7 @@
 - 网络请求缓存处理，okhttp如何处理网络缓存的
 - 图片加载库相关，bitmap如何处理大图，如一张30M的大图，如何预防OOM
 - 进程保活
-- listview图片加载错乱的原理和解决方案
+- ListView图片加载错乱的原理和解决方案
 - https相关，如何验证证书的合法性，https中哪里用了对称加密，哪里用了非对称加密，对加密算法（如RSA）等是否有了解
 
 ### 阿里巴巴
@@ -33,7 +33,7 @@
 - Bundle 机制
 - Handler 机制
 - android 事件传递机制
-- 线程间 操作 List
+- 线程间操作List
 - App启动流程，从点击桌面开始
 - 动态加载
 - 类加载器
@@ -49,13 +49,13 @@
 - 权限管理系统（底层的权限是如何进行 grant 的）；
 - 进程和 Application 的生命周期；
 - 系统启动流程 Zygote进程 –> SystemServer进程 –> 各种系统服务 –> 应用进程
-- recycleview listview 的区别,性能
+- RecycleView ListView 的区别,性能
 
 ### 滴滴
 - MVP
 - 广播（动态注册和静态注册区别，有序广播和标准广播）
-- service生命周期
-- handler实现机制（很多细节需要关注：如线程如何建立和退出消息循环等等）
+- Service生命周期
+- Handler实现机制（很多细节需要关注：如线程如何建立和退出消息循环等等）
 - 多线程（关于AsyncTask缺陷引发的思考）
 - 数据库数据迁移问题
 - 设计模式相关（例如Android中哪里使用了观察者模式，单例模式相关）
@@ -89,6 +89,27 @@
 - 怎么启动service，service和activity怎么进行数据交互
 - 下拉状态栏是不是影响activity的生命周期，如果在onStop的时候做了网络请求，onResume的时候怎么恢复
 - view渲染
+
+### 知乎
+- 快排时间复杂度是怎么算出来的
+- HashMap的结构
+- 如何取桶下标
+- hashcode是什么
+- 与运算是什么
+
+### 其他
+- Java集合框架
+- IO流
+- Android事件分发
+- 自定义View绘制机制和加载过程
+- RxJava
+- 如何选择图片加载框架
+- ListView的优化方式
+- Activity的启动模式
+- Activity缓存方法
+- 如何保证Service不被杀死
+- TCP的连接过程、为什么需要心跳
+- 推送的原理
 
 #### 总结
 ##### 共同点：
