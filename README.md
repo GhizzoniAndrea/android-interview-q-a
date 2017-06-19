@@ -111,6 +111,23 @@
 - TCP的连接过程、为什么需要心跳
 - 推送的原理
 
+### 知识储备
+- [图解集合1：ArrayList](http://www.cnblogs.com/xrq730/p/4989451.html)
+
+- [图解集合2：LinkedList](http://www.cnblogs.com/xrq730/p/5005347.html)
+
+- [图解集合3：CopyOnWriteArrayList](http://www.cnblogs.com/xrq730/p/5020760.html)
+
+- [图解集合4：HashMap](http://www.cnblogs.com/xrq730/p/5030920.html)
+
+- [图解集合5：不正确地使用HashMap引发死循环及元素丢失](http://www.cnblogs.com/xrq730/p/5037299.html)
+
+- [图解集合6：LinkedHashMap](http://www.cnblogs.com/xrq730/p/5052323.html)
+
+- [图解集合7：红黑树概念、红黑树的插入及旋转操作详细解读](http://www.cnblogs.com/xrq730/p/6867924.html)
+
+- [图解集合8：红黑树的移除节点操作](http://www.cnblogs.com/xrq730/p/6882018.html)
+
 #### 总结
 ##### 共同点：
 > - 对基础性、原理性的东西比较重视
