@@ -128,6 +128,8 @@
 
 - [图解集合8：红黑树的移除节点操作](http://www.cnblogs.com/xrq730/p/6882018.html)
 
+- [由 HashMap 引申出的技术深度讨论](https://mp.weixin.qq.com/s?__biz=MzIwNzU5NTQ1Mg==&mid=2247483699&idx=1&sn=fa5d59ec80474b971d37ee8fa5783354&chksm=970eb3e0a0793af6510fe1455b71ac6e0fca2b663b32b132042177fa59de3077ec4774c26f10&scene=0&key=ff6b7666d477ff273543d64cd3fc09962e6780c432c686293d2d43b8bf4f920fcb9fb17064eb32531d0e0f24dc5aa0c50d1bd91c0d6ad906e4bfa4e9af82c1dd56e2b51baa7be9d67d666d40484bf6b5&ascene=0&uin=NjkzMTg2NDA%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=ebineaMbB8BVIeUpnUZjBm8%2BZice%2Bhba5IDsVDpufNY%3D)
+
 #### 总结
 ##### 共同点：
 > - 对基础性、原理性的东西比较重视
