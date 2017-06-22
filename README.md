@@ -190,6 +190,36 @@
 
 - [Android 内存泄漏案例和解析](http://drakeet.me/android-leaks/)
 
+- [面试总结](http://www.importnew.com/22637.html)
+
+- [双重检查锁定与延迟初始化](http://www.infoq.com/cn/articles/double-checked-locking-with-delay-initialization)
+
+- [Java集合框架中隐藏的设计套路](http://blog.csdn.net/sdkfjksf/article/details/54380659)
+
+- [Android Binder 机制原理（史上最强理解，没有之一）](https://juejin.im/entry/589537b82f301e006904eb3e)
+
+- [Android WebView详解，常见漏洞详解和安全源码](https://juejin.im/post/58a037df86b599006b3fade4)
+
+- [深入剖析 Android中的 ArrayMap](http://droidyue.com/blog/2017/02/12/dive-into-arraymap-in-android/index.html)
+
+- [重新认识java（九） ---- 内部类](http://blog.csdn.net/qq_31655965/article/details/54988623)
+
+- [【死磕Java并发】—–深入分析synchronized的实现原理](http://cmsblogs.com/?p=2071)
+
+- [【死磕Java并发】—–深入分析volatile的实现原理](http://cmsblogs.com/?p=2092)
+
+- [Android消息机制学习笔记](https://zhuanlan.zhihu.com/p/25222485)
+
+- [Activity 与 Window、PhoneWindow、DecorView 之间的关系简述](http://gudong.name/2017/05/08/activity-windown-decorview.html)
+
+- [5分钟完全理解Android Handler](https://android-notes.github.io/2016/12/03/5%E5%88%86%E9%92%9F%E5%AE%8C%E5%85%A8%E7%90%86%E8%A7%A3android-handler/)
+
+- [Android事件传递三部曲：本地广播LocalBroadcastManager](https://shaohui.me/2017/01/21/android-message-3-localBroadcast/)
+
+- [关于 Android 应用多进程的整理](http://droidyue.com/blog/2017/01/15/android-multiple-processes-summary/index.html)
+
+- [［译］Android Activity 和 Fragment 状态保存与恢复的最佳实践](https://juejin.im/post/5860b20b1b69e6006cdf5c8e)
+
 #### 总结
 ##### 共同点：
 > - 对基础性、原理性的东西比较重视
