@@ -130,6 +130,66 @@
 
 - [由 HashMap 引申出的技术深度讨论](https://mp.weixin.qq.com/s?__biz=MzIwNzU5NTQ1Mg==&mid=2247483699&idx=1&sn=fa5d59ec80474b971d37ee8fa5783354&chksm=970eb3e0a0793af6510fe1455b71ac6e0fca2b663b32b132042177fa59de3077ec4774c26f10&scene=0&key=ff6b7666d477ff273543d64cd3fc09962e6780c432c686293d2d43b8bf4f920fcb9fb17064eb32531d0e0f24dc5aa0c50d1bd91c0d6ad906e4bfa4e9af82c1dd56e2b51baa7be9d67d666d40484bf6b5&ascene=0&uin=NjkzMTg2NDA%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=ebineaMbB8BVIeUpnUZjBm8%2BZice%2Bhba5IDsVDpufNY%3D)
 
+- [Android WebView —— Java 与 JavaScript 交互总结](https://juejin.im/post/5840270a128fe1005894e6ec)
+
+- [彻底理解 Android Binder 通信架构](https://www.diycode.cc/topics/384)
+
+- [彻底理解Android Binder通信架构](http://gityuan.com/2016/09/04/binder-start-service/)
+
+- [startActivity启动过程分析](http://gityuan.com/2016/03/12/start-activity/)
+
+- [史上最全 Android 面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
+
+- [这里有一份面经，请查收](http://blog.jobbole.com/103105/)
+
+- [TCP 的连接和释放](https://juejin.im/entry/57763b7aa633bd00570baf23)
+
+- [Service 要点全解析](https://juejin.im/entry/576a25e12e958a00699cb1ad)
+
+- [Android面试重点难点](https://juejin.im/entry/57466b5e71cfe40068cd862a)
+
+- [扫清Android面试障碍](https://juejin.im/entry/574682be2e958a002dbbec9a)
+
+- [面试前的准备](http://lastdays.cn/2016/05/17/ex/)
+
+- [Java中的几个HashMap/ConcurrentHashMap实现分析](http://www.importnew.com/19685.html)
+
+- [Wireshark 基本介绍和学习 TCP 三次握手](http://www.codeceo.com/article/wireshark-and-tcp-3-hand.html#0-tsina-1-30953-397232819ff9a47a7b7e80a40613cfe1)
+
+- [排序算法总结](https://segmentfault.com/a/1190000004994003)
+
+- [如何设计实现一个LRU Cache？](http://www.importnew.com/18758.html)
+
+- [快速了解 Android 重要机制－收藏必备](https://juejin.im/entry/56f0e148816dfa005181ab22)
+
+- [查找算法之顺序、二分、二叉搜索树、红黑树 详细比较总结](https://juejin.im/entry/56eecbb6128fe100513d1a20)
+
+- [就是要你懂Java中volatile关键字实现原理](http://www.cnblogs.com/xrq730/p/7048693.html)
+
+- [理解 Java 中的弱引用](https://juejin.im/entry/5674e77800b0023c617f0484)
+
+- [程序员必须知道的 10 大基础实用算法及其讲解](https://juejin.im/entry/56d823f9d342d30054803735)
+
+- [面试中的 10 大排序算法总结](http://www.codeceo.com/article/10-sort-algorithm-interview.html)
+
+- [40个Java多线程问题总结](http://www.importnew.com/18459.html)
+
+- [我的Android面试经验总结](http://android.jobbole.com/82565/)
+
+- [Java集合框架](http://www.importnew.com/19853.html)
+
+- [Android 内存泄漏解决方案](https://juejin.im/entry/5762b1d7816dfa00544680a0)
+
+- [Picasso源码揭秘](https://segmentfault.com/a/1190000005759947)
+
+- [Android 中的 Service：Binder，Messenger，AIDL](https://juejin.im/entry/575697872e958a0068cdf056)
+
+- [Android性能优化](https://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872276&idx=1&sn=baaa38109e103653c712f6e9a54cf647#rd)
+
+- [这可能是目前最详细的安卓task, launchMode, intent flag测试分析与总结了](https://blog.piasy.com/2016/03/19/Android-Task-And-Back-Stack)
+
+- [Android 内存泄漏案例和解析](http://drakeet.me/android-leaks/)
+
 #### 总结
 ##### 共同点：
 > - 对基础性、原理性的东西比较重视
