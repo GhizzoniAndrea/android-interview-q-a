@@ -220,6 +220,14 @@
 
 - [［译］Android Activity 和 Fragment 状态保存与恢复的最佳实践](https://juejin.im/post/5860b20b1b69e6006cdf5c8e)
 
+- [Android：这是一份很详细的Socket使用攻略](http://www.jianshu.com/p/089fb79e308b)
+
+- [Android：深入四大组件系列](http://liuwangshu.cn/tags/Android%E6%B7%B1%E5%85%A5%E5%9B%9B%E5%A4%A7%E7%BB%84%E4%BB%B6/)
+
+- [Android深入理解Context（一）Context关联类和Application Context创建过程](https://juejin.im/post/5930db500ce4630057f2b28b)
+
+- [Activity全方位了解，总有你不知道的一面](http://lruheng.com/2017/02/22/Activity%E5%85%A8%E6%96%B9%E4%BD%8D%E4%BA%86%E8%A7%A3%EF%BC%8C%E6%80%BB%E6%9C%89%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%B8%80%E9%9D%A2/)
+
 #### 总结
 ##### 共同点：
 > - 对基础性、原理性的东西比较重视
