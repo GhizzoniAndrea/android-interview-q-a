@@ -228,6 +228,8 @@
 
 - [Activity全方位了解，总有你不知道的一面](http://lruheng.com/2017/02/22/Activity%E5%85%A8%E6%96%B9%E4%BD%8D%E4%BA%86%E8%A7%A3%EF%BC%8C%E6%80%BB%E6%9C%89%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%B8%80%E9%9D%A2/)
 
+- [面试算法实践与国外大厂习题指南](https://zhuanlan.zhihu.com/p/25719965)
+
 #### 总结
 ##### 共同点：
 > - 对基础性、原理性的东西比较重视
