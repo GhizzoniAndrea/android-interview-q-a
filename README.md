@@ -265,6 +265,16 @@
 
 - [17年2月面试经验](https://guolei1130.github.io/2017/02/16/17%E5%B9%B42%E6%9C%88%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C/)
 
+- [快速了解Android重要机制](http://www.jianshu.com/p/5f6d79323923)
+
+- [RecyclerView技术栈](http://www.jianshu.com/p/16712681731e)
+
+- [安卓开发中遇到的重难点解析，也包括平常的读书笔记和知识点整理](https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis/)
+
+- [【凯子哥带你学Framework】Activity启动过程全解析](http://blog.csdn.net/zhaokaiqiang1992/article/details/49428287)
+
+- [Android Activity 启动模式的功能验证](http://www.codeceo.com/article/android-activity-start-service.html)
+
 ### 提问
 - [面试时如何像公司提问？](http://www.mayflyask.org/question/252)
 
