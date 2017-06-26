@@ -1,6 +1,11 @@
 ### 前言
 > 梳理一下面试过程的知识点，为了以后可以更直观地回忆
 
+### 面试前准备
+- [扫清Android面试障碍](http://www.bingjie.me/2016/05/12/%E6%89%AB%E6%B8%85%E9%9D%A2%E8%AF%95%E5%89%8D%E7%9A%84%E5%87%86%E5%A4%87.html)
+
+- [一个五年Android 开发者百度、阿里、聚美、映客的面试心经](https://www.diycode.cc/topics/165)
+
 ### 腾讯
 - synchronize用法
 - volatile用法
@@ -229,6 +234,41 @@
 - [Activity全方位了解，总有你不知道的一面](http://lruheng.com/2017/02/22/Activity%E5%85%A8%E6%96%B9%E4%BD%8D%E4%BA%86%E8%A7%A3%EF%BC%8C%E6%80%BB%E6%9C%89%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%B8%80%E9%9D%A2/)
 
 - [面试算法实践与国外大厂习题指南](https://zhuanlan.zhihu.com/p/25719965)
+
+- [从框架层分析如何启动未注册的 Activity](https://zhuanlan.zhihu.com/p/26455221)
+
+- [15个顶级Java多线程面试题及回答](http://ifeve.com/15-java-faq/)
+
+- [Java面试中遇到的一些经典算法题目](http://pengcqu.iteye.com/blog/504628)
+
+- [Android面试重点难点](http://blog.csdn.net/codeemperor/article/details/51004189)
+
+- [一道面试题比较synchronized和读写锁](http://www.importnew.com/20865.html)
+
+- [Android 面试要点](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820648&idx=1&sn=cb9ee924f2ded3358dd6c256803cc687&scene=0#wechat_redirect)
+
+- [2016年未，腾讯，百度，华为，搜狗和滴滴面试题汇总](https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484286&idx=1&sn=e5843fb79d8a36ab063699b5fb9a0711&chksm=eae1f62cdd967f3a576396f8402581326b835b8327ed5f20f23896fcd22c2115e77863b4115b#rd)
+
+- [Android 面试资料集锦(http://jingbin.me/2017/02/20/Android%20%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99%E9%9B%86%E9%94%A6/)
+
+- [面试题思考：try 代码块中含 return 语句时，代码执行顺序](https://juejin.im/post/5901cefa44d90400690cd3d4)
+
+- [阿里面试题锦集](http://www.jianshu.com/p/cf5092fa2694)
+
+- [这些Android面试题你一定需要](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548612&idx=1&sn=8e46b6dd47bd8577a5f7098aa0889098&chksm=f1180c39c66f852fd955a29a9cb4ffa9dc4d528cab524059bcabaf37954fa3f04bc52c41dae8&scene=21#wechat_redirect)
+
+- [Android 开发工程师面试指南](https://www.diycode.cc/wiki/androidinterview)
+
+- [一线互联网公司面试简单分析](http://www.jackway.cn/2016/12/07/interview-1/)
+
+- [面试中所遇到的那些坑](http://www.jianshu.com/p/aa8f47ea2a8a)
+
+- [17年2月面试经验](https://guolei1130.github.io/2017/02/16/17%E5%B9%B42%E6%9C%88%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C/)
+
+### 提问
+- [面试时如何像公司提问？](http://www.mayflyask.org/question/252)
+
+- [面试决定你的不仅仅是技术，而是它](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=400620337&idx=1&sn=1fa995c1af190cb21479256807aaedb8#wechat_redirect)
 
 #### 总结
 ##### 共同点：
