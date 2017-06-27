@@ -249,7 +249,7 @@
 
 - [2016年未，腾讯，百度，华为，搜狗和滴滴面试题汇总](https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484286&idx=1&sn=e5843fb79d8a36ab063699b5fb9a0711&chksm=eae1f62cdd967f3a576396f8402581326b835b8327ed5f20f23896fcd22c2115e77863b4115b#rd)
 
-- [Android 面试资料集锦(http://jingbin.me/2017/02/20/Android%20%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99%E9%9B%86%E9%94%A6/)
+- [Android 面试资料集锦](http://jingbin.me/2017/02/20/Android%20%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99%E9%9B%86%E9%94%A6/)
 
 - [面试题思考：try 代码块中含 return 语句时，代码执行顺序](https://juejin.im/post/5901cefa44d90400690cd3d4)
 
@@ -274,6 +274,16 @@
 - [【凯子哥带你学Framework】Activity启动过程全解析](http://blog.csdn.net/zhaokaiqiang1992/article/details/49428287)
 
 - [Android Activity 启动模式的功能验证](http://www.codeceo.com/article/android-activity-start-service.html)
+
+- [基础与细节](https://segmentfault.com/a/1190000008720237)
+
+- [问题与答案](http://blog.csdn.net/dd864140130/article/details/55833087)
+
+- [Java线程面试题 Top 50](http://www.importnew.com/12773.html)
+
+- [Android 工程师面试题](http://www.codeceo.com/article/android-interview-question.html)
+
+- [不错的博客 排序二叉树和红黑树](http://blog.csdn.net/jackfrued/article/details/10129649)
 
 ### 提问
 - [面试时如何像公司提问？](http://www.mayflyask.org/question/252)
