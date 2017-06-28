@@ -6,6 +6,12 @@
 
 - [一个五年Android 开发者百度、阿里、聚美、映客的面试心经](https://www.diycode.cc/topics/165)
 
+- [HR面试小总结--不定期更新](http://www.jianshu.com/p/6ba84767c5d3)
+
+- [面试前准备](http://lastdays.cn/2016/05/17/ex/)
+
+- [回答阿里社招面试如何准备，顺便谈谈对于Java程序猿学习当中各个阶段的建议](http://www.cnblogs.com/zuoxiaolong/p/life51.html)
+
 ### 腾讯
 - synchronize用法
 - volatile用法
@@ -284,6 +290,40 @@
 - [Android 工程师面试题](http://www.codeceo.com/article/android-interview-question.html)
 
 - [不错的博客 排序二叉树和红黑树](http://blog.csdn.net/jackfrued/article/details/10129649)
+
+- [面试感悟----一名3年工作经验的程序员应该具备的技能](http://www.cnblogs.com/xrq730/p/5260294.html)
+
+- [2016Android某公司面试题](https://yuweiguocn.github.io/interview-2016-big-company/)
+
+- [程序员面试之必考题（二）：HTTP的基本原理](http://www.jianshu.com/p/9eeb56a6afb9)
+
+- [2016年魅族Android面试题（试答(上)）](http://www.jianshu.com/p/cd9f97853f54)
+
+- [2016年魅族Android面试题（试答(下)）](http://www.jianshu.com/p/596778ae116b)
+
+- [Android面试题-软键盘适配](http://www.jianshu.com/p/640bac6f58ab)
+
+- [Android阿里面试题锦集](http://www.jianshu.com/p/cf5092fa2694)
+
+- [Android老司机面试经历](http://www.jianshu.com/p/b524e83d15fe)
+
+- [Android面试题集](http://blog.csdn.net/dd864140130/article/details/57408502)
+
+- [Android面试题大集结](http://blog.csdn.net/wdong_love_cl/article/details/51489187)
+
+- [Android面试遇到的问题(1)](http://blog.csdn.net/hmh0512/article/details/55095325)
+
+- [面试题第一波](http://www.easydone.cn/2015/11/25/)
+
+- [最新Android面试题整理 + 各个巨头公司面试题](http://www.apkbus.com/blog-88452-52994.html)
+
+- [一些常见的Android面试基础题做下总结，看看你能做出多少道](https://my.oschina.net/gavinjin/blog/41806)
+
+- [Android面试题收藏](http://www.jianshu.com/p/ddc859a6efe4)
+
+- [Android常见面试题与回答](http://www.myexception.cn/android/1910329.html)
+
+- [Andorid-15k+的面试题](http://blog.csdn.net/cym492224103/article/details/38417927)
 
 ### 提问
 - [面试时如何像公司提问？](http://www.mayflyask.org/question/252)
