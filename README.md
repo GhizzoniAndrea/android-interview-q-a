@@ -325,10 +325,35 @@
 
 - [Andorid-15k+的面试题](http://blog.csdn.net/cym492224103/article/details/38417927)
 
+- [你知道Thread线程是如何运作的吗？](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484614&idx=1&sn=5580b6d316846deb1153b4aefdedddb4&chksm=96cda58ba1ba2c9d23838a5f1e4446fd00cb8f2b3db65287fb673d1abed9b473a65e2aaf6c20#rd)
+
+- [Android之View的诞生之谜](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247484804&idx=1&sn=87a6bfaa9823570c1a850cab3a403c00&chksm=96cda4c9a1ba2ddf61d216717bac8bf8d49b590e54b6952d168046a3adf42076404955ec8624&mpshare=1&scene=23&srcid=0606OcoUp1cu0Y0t9ol77cRO#rd)
+
+- [Android View绘制源码分析--Measure](http://rkhcy.github.io/2017/05/24/View%E7%9A%84%E7%BB%98%E5%88%B6-Measure/)
+
+- [浅谈RxJava中的线程管理](http://zjutkz.net/2017/04/26/%E6%B5%85%E8%B0%88RxJava%E4%B8%AD%E7%9A%84%E7%BA%BF%E7%A8%8B%E7%AE%A1%E7%90%86/)
+
+- [深入理解ServiceManager](https://pqpo.me/2017/04/26/learn-servicemanager/)
+
+- [Java 里如何实现线程间通信？](http://wingjay.com/2017/04/09/Java%E9%87%8C%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%BA%BF%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%EF%BC%9F/)
+
+- [深入理解MessageQueue](https://pqpo.me/2017/05/03/learn-messagequeue/)
+
+- [Android性能优化（十）之App瘦身攻略](https://mp.weixin.qq.com/s?__biz=MzI3OTU3OTQ1Mw==&mid=2247483785&idx=1&sn=81fb5a5f57dd119e9b61477db1f5d2a5&chksm=eb44dfdbdc3356cd140a01d4b36df683798442347709eed031ec25daf73d82869474f84e69e2&mpshare=1&scene=23&srcid=05240yGaBTSiJEEcEEzWRpyO#rd)
+
+- [Android性能优化（十一）之正确的异步姿势](https://mp.weixin.qq.com/s?__biz=MzI3OTU3OTQ1Mw==&mid=2247483791&idx=1&sn=a0062d053cc86ebe2c8d8b34fcc3b985&chksm=eb44dfdddc3356cba30b56921577b4d5a63c28d589277634406e688b658e4eaeca01db2bed0c&mpshare=1&scene=23&srcid=0607Zswt0KY7vLEUnpGGGJpb#rd)
+
+- [关于Java并发编程的总结和思考](http://blog.csdn.net/jackfrued/article/details/44499227)
+
 ### 提问
 - [面试时如何像公司提问？](http://www.mayflyask.org/question/252)
 
 - [面试决定你的不仅仅是技术，而是它](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=400620337&idx=1&sn=1fa995c1af190cb21479256807aaedb8#wechat_redirect)
+
+### 网站
+- [wingjay](http://wingjay.com/)
+
+- [pqpo](https://pqpo.me/)
 
 #### 总结
 ##### 共同点：
