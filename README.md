@@ -12,6 +12,8 @@
 
 - [回答阿里社招面试如何准备，顺便谈谈对于Java程序猿学习当中各个阶段的建议](http://www.cnblogs.com/zuoxiaolong/p/life51.html)
 
+- [开发者面试指南](http://www.jianshu.com/p/47d71eaeeccb)
+
 ### 简历
 - [80% 以上简历都是不合格的](http://b.codekk.com/detail/Trinea/%E4%B8%80%E5%A4%A7%E5%8D%8A%E4%BB%A5%E4%B8%8A%E7%AE%80%E5%8E%86%E9%83%BD%E6%98%AF%E4%B8%8D%E5%90%88%E6%A0%BC%E7%9A%84)
 
@@ -351,6 +353,34 @@
 - [一年Android工作经验，一举拿下百度、网易、美团、小米、快手等Offer面经](https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247485000&idx=1&sn=2d74c597c62c9c4229f79cce9587b6bf&chksm=eae1f31add967a0cddf98dd3bbf529b50420bbf7a9cb6b238e6e6fe993c8bd8ba5cca728e0da#rd)
 
 - [Android客户端面试题集锦](http://www.cnblogs.com/jasonkent27/p/4856209.html)
+
+- [写给小白的android基础面试笔试题（一）](http://www.jianshu.com/p/8650b3878722)
+
+- [写给小白的android基础面试笔试题（二）](http://www.jianshu.com/p/6c38d96f396d)
+
+- [写给小白的android基础面试笔试题（三）](http://www.jianshu.com/p/5573206112d2)
+
+- [2017年小米春招内推面试面经](http://www.jianshu.com/p/d627c900af10)
+
+- [Java容器类源码-ArrayList的最全的源码分析](http://www.jianshu.com/p/2d0d77457043)
+
+- [Java集合框架分析-ArrayList](http://www.jianshu.com/p/36730a42d51b)
+
+- [Android launchMode](http://www.jianshu.com/p/72735608cd01)
+
+- [Java集合框架分析-Iterator](http://www.jianshu.com/p/57cbf9602ab1)
+
+- [常见面试题算法](http://www.jianshu.com/p/a477589fc4ff)
+
+- [Android Handler的使用方式和注意事项](http://www.jianshu.com/p/e02d68da29b6)
+
+- [Android后台杀死系列之二：ActivityManagerService与App现场恢复机制](http://www.jianshu.com/p/e3612a9b1af3)
+
+- [2017年4月x团面试总结](http://www.jianshu.com/p/ab4d0c6e9481)
+
+- [2016腾讯软件开发面试题(不定项选择题【1-12】)](http://www.jianshu.com/p/dc859753a035)
+
+- [超详细的生命周期图-你能回答全吗](http://www.jianshu.com/p/d586c3406cfb)
 
 ### 提问
 - [面试时如何像公司提问？](http://www.mayflyask.org/question/252)
