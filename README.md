@@ -12,6 +12,9 @@
 
 - [回答阿里社招面试如何准备，顺便谈谈对于Java程序猿学习当中各个阶段的建议](http://www.cnblogs.com/zuoxiaolong/p/life51.html)
 
+### 简历
+- [80% 以上简历都是不合格的](http://b.codekk.com/detail/Trinea/%E4%B8%80%E5%A4%A7%E5%8D%8A%E4%BB%A5%E4%B8%8A%E7%AE%80%E5%8E%86%E9%83%BD%E6%98%AF%E4%B8%8D%E5%90%88%E6%A0%BC%E7%9A%84)
+
 ### 腾讯
 - synchronize用法
 - volatile用法
