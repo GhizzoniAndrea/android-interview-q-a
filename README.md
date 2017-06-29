@@ -345,6 +345,8 @@
 
 - [关于Java并发编程的总结和思考](http://blog.csdn.net/jackfrued/article/details/44499227)
 
+- [一年Android工作经验，一举拿下百度、网易、美团、小米、快手等Offer面经](https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247485000&idx=1&sn=2d74c597c62c9c4229f79cce9587b6bf&chksm=eae1f31add967a0cddf98dd3bbf529b50420bbf7a9cb6b238e6e6fe993c8bd8ba5cca728e0da#rd)
+
 ### 提问
 - [面试时如何像公司提问？](http://www.mayflyask.org/question/252)
 
