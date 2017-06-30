@@ -384,6 +384,10 @@
 
 - [线性表（ArrayList 和 LinkedList源码分析）](http://www.jianshu.com/p/185b3d44a023)
 
+- [HashMap深度剖析](https://zhuanlan.zhihu.com/p/27607844)
+
+- [很全面的算法和数据结构知识（含代码实现）](http://blog.jobbole.com/110835/)
+
 ### 提问
 - [面试时如何像公司提问？](http://www.mayflyask.org/question/252)
 
@@ -393,6 +397,8 @@
 - [wingjay](http://wingjay.com/)
 
 - [pqpo](https://pqpo.me/)
+
+- [reezy](http://reezy.me/)
 
 #### 总结
 ##### 共同点：
