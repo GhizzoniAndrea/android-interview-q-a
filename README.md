@@ -382,6 +382,8 @@
 
 - [超详细的生命周期图-你能回答全吗](http://www.jianshu.com/p/d586c3406cfb)
 
+- [线性表（ArrayList 和 LinkedList源码分析）](http://www.jianshu.com/p/185b3d44a023)
+
 ### 提问
 - [面试时如何像公司提问？](http://www.mayflyask.org/question/252)
 
