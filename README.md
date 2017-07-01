@@ -14,6 +14,8 @@
 
 - [开发者面试指南](http://www.jianshu.com/p/47d71eaeeccb)
 
+- [面试时，问哪些问题能试出一个 Android 应用开发者真正的水平？](https://www.zhihu.com/question/19765032)
+
 ### 简历
 - [80% 以上简历都是不合格的](http://b.codekk.com/detail/Trinea/%E4%B8%80%E5%A4%A7%E5%8D%8A%E4%BB%A5%E4%B8%8A%E7%AE%80%E5%8E%86%E9%83%BD%E6%98%AF%E4%B8%8D%E5%90%88%E6%A0%BC%E7%9A%84)
 
@@ -387,6 +389,8 @@
 - [HashMap深度剖析](https://zhuanlan.zhihu.com/p/27607844)
 
 - [很全面的算法和数据结构知识（含代码实现）](http://blog.jobbole.com/110835/)
+
+- [教你如何迅速秒杀掉：99%的海量数据处理面试题](http://blog.csdn.net/v_july_v/article/details/7382693)
 
 ### 提问
 - [面试时如何像公司提问？](http://www.mayflyask.org/question/252)
