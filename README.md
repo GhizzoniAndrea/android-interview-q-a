@@ -392,6 +392,14 @@
 
 - [教你如何迅速秒杀掉：99%的海量数据处理面试题](http://blog.csdn.net/v_july_v/article/details/7382693)
 
+- [ViewRoot，DecorView，MeasureSpec和View的工作原理](http://blog.csdn.net/l664675249/article/details/50774617)
+
+- [Android中View的事件分发机制](http://blog.csdn.net/l664675249/article/details/50738102)
+
+- [Android中View的滑动冲突](http://blog.csdn.net/l664675249/article/details/50766523)
+
+- [Java 之 volatile 详解](https://juejin.im/post/5956222cf265da6c483cccf1)
+
 ### 提问
 - [面试时如何像公司提问？](http://www.mayflyask.org/question/252)
 
@@ -403,6 +411,8 @@
 - [pqpo](https://pqpo.me/)
 
 - [reezy](http://reezy.me/)
+
+- [sparkyuan](http://sparkyuan.me/)
 
 #### 总结
 ##### 共同点：
