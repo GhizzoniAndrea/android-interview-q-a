@@ -400,6 +400,24 @@
 
 - [Java 之 volatile 详解](https://juejin.im/post/5956222cf265da6c483cccf1)
 
+- [十个不可忽视的Java基础知识](http://www.jianshu.com/p/dfb0ca0b510d)
+
+- [图解 Android 事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b)
+
+- [Android中Application类的全面总结](http://www.jianshu.com/p/8cf17551da65)
+
+- [更简单的非递归遍历二叉树的方法](http://www.jianshu.com/p/49c8cfd07410)
+
+- [Android自定义View总结](http://www.jianshu.com/p/cb98b15c89dc)
+
+- [3分钟看懂Activity启动流程](http://www.jianshu.com/p/9ecea420eb52)
+
+- [你真的理解AccessibilityService吗](http://www.jianshu.com/p/4cd8c109cdfb)
+
+- [Java集合框架分析-HashMap](http://www.jianshu.com/p/76f5a3d12c28)
+
+- [《Android开发艺术探索》——View事件体系](http://www.jianshu.com/p/efcf275a7e00)
+
 ### 提问
 - [面试时如何像公司提问？](http://www.mayflyask.org/question/252)
 
