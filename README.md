@@ -420,6 +420,8 @@
 
 - [记一次Android 面试](https://mp.weixin.qq.com/s?__biz=MzIxMTg5NjQyMA==&mid=2247483738&idx=1&sn=accca765d0129d90bc2b14bb3f71adad&chksm=974f1051a038994710d893724cb0db5040cf510250f57e377a036dc9606f65401490b7248b22#rd)
 
+- [6.1 （番外）深入源码理解HashMap、LinkedHashMap，DiskLruCache](http://www.jianshu.com/p/b0793fbd1322)
+
 ### 提问
 - [面试时如何像公司提问？](http://www.mayflyask.org/question/252)
 
