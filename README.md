@@ -142,6 +142,20 @@
 
 - [图解集合6：LinkedHashMap](http://www.cnblogs.com/xrq730/p/5052323.html)
 
+- [6.1 （番外）深入源码理解HashMap、LinkedHashMap，DiskLruCache](http://www.jianshu.com/p/b0793fbd1322)
+
+- [Java集合框架分析-HashMap](http://www.jianshu.com/p/76f5a3d12c28)
+
+- [线性表（ArrayList 和 LinkedList源码分析）](http://www.jianshu.com/p/185b3d44a023)
+
+- [HashMap深度剖析](https://zhuanlan.zhihu.com/p/27607844)
+
+- [Java集合框架分析-Iterator](http://www.jianshu.com/p/57cbf9602ab1)
+
+- [Java容器类源码-ArrayList的最全的源码分析](http://www.jianshu.com/p/2d0d77457043)
+
+- [Java集合框架分析-ArrayList](http://www.jianshu.com/p/36730a42d51b)
+
 - [图解集合7：红黑树概念、红黑树的插入及旋转操作详细解读](http://www.cnblogs.com/xrq730/p/6867924.html)
 
 - [图解集合8：红黑树的移除节点操作](http://www.cnblogs.com/xrq730/p/6882018.html)
@@ -364,13 +378,7 @@
 
 - [2017年小米春招内推面试面经](http://www.jianshu.com/p/d627c900af10)
 
-- [Java容器类源码-ArrayList的最全的源码分析](http://www.jianshu.com/p/2d0d77457043)
-
-- [Java集合框架分析-ArrayList](http://www.jianshu.com/p/36730a42d51b)
-
 - [Android launchMode](http://www.jianshu.com/p/72735608cd01)
-
-- [Java集合框架分析-Iterator](http://www.jianshu.com/p/57cbf9602ab1)
 
 - [常见面试题算法](http://www.jianshu.com/p/a477589fc4ff)
 
@@ -383,10 +391,6 @@
 - [2016腾讯软件开发面试题(不定项选择题【1-12】)](http://www.jianshu.com/p/dc859753a035)
 
 - [超详细的生命周期图-你能回答全吗](http://www.jianshu.com/p/d586c3406cfb)
-
-- [线性表（ArrayList 和 LinkedList源码分析）](http://www.jianshu.com/p/185b3d44a023)
-
-- [HashMap深度剖析](https://zhuanlan.zhihu.com/p/27607844)
 
 - [很全面的算法和数据结构知识（含代码实现）](http://blog.jobbole.com/110835/)
 
@@ -414,13 +418,9 @@
 
 - [你真的理解AccessibilityService吗](http://www.jianshu.com/p/4cd8c109cdfb)
 
-- [Java集合框架分析-HashMap](http://www.jianshu.com/p/76f5a3d12c28)
-
 - [《Android开发艺术探索》——View事件体系](http://www.jianshu.com/p/efcf275a7e00)
 
 - [记一次Android 面试](https://mp.weixin.qq.com/s?__biz=MzIxMTg5NjQyMA==&mid=2247483738&idx=1&sn=accca765d0129d90bc2b14bb3f71adad&chksm=974f1051a038994710d893724cb0db5040cf510250f57e377a036dc9606f65401490b7248b22#rd)
-
-- [6.1 （番外）深入源码理解HashMap、LinkedHashMap，DiskLruCache](http://www.jianshu.com/p/b0793fbd1322)
 
 ### 提问
 - [面试时如何像公司提问？](http://www.mayflyask.org/question/252)
