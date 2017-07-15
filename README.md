@@ -436,6 +436,8 @@
 
 - [sparkyuan](http://sparkyuan.me/)
 
+- [yuqirong](http://yuqirong.me/)
+
 #### 总结
 ##### 共同点：
 > - 对基础性、原理性的东西比较重视
