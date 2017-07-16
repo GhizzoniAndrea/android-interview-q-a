@@ -438,6 +438,8 @@
 
 - [yuqirong](http://yuqirong.me/)
 
+- [yydcdut](http://yydcdut.com/)
+
 #### 总结
 ##### 共同点：
 > - 对基础性、原理性的东西比较重视
