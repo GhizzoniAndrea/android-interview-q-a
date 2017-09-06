@@ -444,6 +444,8 @@
 
 - [baron](https://zhuanlan.zhihu.com/baron)
 
+- [笔记社区](http://www.bijishequ.com/)
+
 #### 总结
 ##### 共同点：
 > - 对基础性、原理性的东西比较重视
