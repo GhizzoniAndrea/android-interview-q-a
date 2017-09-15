@@ -150,6 +150,8 @@
 
 - [HashMap深度剖析](https://zhuanlan.zhihu.com/p/27607844)
 
+- [HashMap源码分析](https://www.ziwenxie.site/2017/06/04/java-hashmap/)
+
 - [Java集合框架分析-Iterator](http://www.jianshu.com/p/57cbf9602ab1)
 
 - [Java容器类源码-ArrayList的最全的源码分析](http://www.jianshu.com/p/2d0d77457043)
