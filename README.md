@@ -452,6 +452,8 @@
 
 - [mrfu](https://mrfu.me/)
 
+- [gudong](http://gudong.name/)
+
 #### 总结
 ##### 共同点：
 > - 对基础性、原理性的东西比较重视
