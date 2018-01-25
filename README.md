@@ -426,6 +426,10 @@
 
 - [记一次Android 面试](https://mp.weixin.qq.com/s?__biz=MzIxMTg5NjQyMA==&mid=2247483738&idx=1&sn=accca765d0129d90bc2b14bb3f71adad&chksm=974f1051a038994710d893724cb0db5040cf510250f57e377a036dc9606f65401490b7248b22#rd)
 
+- [Activity任务和返回栈机制（activity之间的启动）](https://zhuanlan.zhihu.com/p/23704495)
+
+- [面试官最爱的volatile关键字](https://juejin.im/post/5a2b53b7f265da432a7b821c)
+
 ### 提问
 - [面试时如何像公司提问？](http://www.mayflyask.org/question/252)
 
