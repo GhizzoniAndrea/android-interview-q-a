@@ -435,6 +435,8 @@
 
 - [面试决定你的不仅仅是技术，而是它](https://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=400620337&idx=1&sn=1fa995c1af190cb21479256807aaedb8#wechat_redirect)
 
+- [记录日常开发中遇到的技术重点，难点，知识点总结，读书笔记，面试题，个人分享等](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode)
+
 ### 网站
 - [wingjay](http://wingjay.com/)
 
